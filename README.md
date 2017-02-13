@@ -7,15 +7,15 @@ https://www.python.org/download/releases/2.7/
 
 Second, download the following modules for python: requests, urllib2, zipfile, os, StringIO, csv, sys, lxml, html, time, openpyxl, Workbook
 
-Third, In your command prompt/terminal type:
+In your command prompt/terminal type:
 
 pip install requests
 
 Repeat for all modules.
 
-Fourth, download the FEC data harvester (2011-2017)
+Third, download the FEC data harvester (2011-2017)
 
-Fifth, in your command prompt/terminal type:
+Fourth, in your command prompt/terminal type:
 
 python fec_data_harvester.py
 
@@ -23,22 +23,22 @@ It's a lot of data, so make sure you have space on your hard drive.
 
 (Tip: If you want to download one year at a time, in line 15 remove the years you don't want, and leave the one you do want)
 
-Sixth, clean your spreadsheets so that Column A is Last Name, Column B is First Name, Column F is City, and Column G is State. 
+Fifth, clean your spreadsheets so that Column A is Last Name, Column B is First Name, Column F is City, and Column G is State. 
 
-Seventh, download the phone number scraper.
+Six, download the phone number scraper.
 
-Eighth, in lines 6, 7, and 25 change the name and workbook name to whatever your spreadsheet is titled (Currently: Ch4llengerTV.xlsx, Ch4llengerTV, Ch4llengerTV.csv -- change to: YourFileName.xlsx, YourWorkbookName, YourFileName.csv)
+Seventh, in lines 6, 7, and 25 change the name and workbook name to whatever your spreadsheet is titled (Currently: Ch4llengerTV.xlsx, Ch4llengerTV, Ch4llengerTV.csv -- change to: YourFileName.xlsx, YourWorkbookName, YourFileName.csv)
 
-Ninth, in your command prompt/terminal type:
+Eighth, in your command prompt/terminal type:
 
 python phone_number_scraper.py
 
 A new comma serparated value (.csv) file should appear that will include the phone numbers of individual donors.
 
-Tenth, call the donors and ask them for a donation.
+Ninth, call the donors and ask them for a donation.
 
-Eleventh, mail or email them a letter and some campaign collateral with a remit envelope to send back donations in.
+Tenth, mail or email them a letter and some campaign collateral with a remit envelope to send back donations in.
 
-Twelfth, Wait about a week and the contributions should start rolling in.
+Eleventh, Wait about a week and the contributions should start rolling in.
 
 Good luck!
