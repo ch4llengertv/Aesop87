@@ -32,12 +32,12 @@ Column G = State
 
 python phone_number_scraper.py
 
-A new comma serparated value (.csv) file should appear that will include the phone numbers of individual donors.
+A new comma serparated value (.csv) file should appear that will include the phone numbers of individual donors
 
-(9) call the donors and ask them for a donation.
+(9) call the donors and ask them for their support
 
-(10) mail or email them a letter and some campaign collateral with a remit envelope to send back donations in.
+(10) mail or email the people who ask for more information and also send something like palm card and a preaddressed remit envelope for them to send back
 
-(11) Wait about a week and the contributions should start rolling in.
+(11) wait about a week and the remit envelopes should start rolling in
 
 Good luck!
